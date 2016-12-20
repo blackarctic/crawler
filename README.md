@@ -85,4 +85,4 @@ npm start
 
 ## Questions?
 
-Tweet to me [@blackarctic](https://twitter.com/_blackarctic). Happy to talk.
+Tweet to me [@_blackarctic](https://twitter.com/_blackarctic). Happy to talk.
