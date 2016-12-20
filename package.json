@@ -1,0 +1,16 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "a boilerplate for web crawling with phantomjs",
+  "main": "crawl.js",
+  "scripts": {
+    "start": "phantomjs crawl.js",
+    "example": "phantomjs crawl-example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Galloway <blackarctic@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
